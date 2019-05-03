@@ -1,1 +1,1 @@
-from .inscrawler import InsCrawler
+from inscrawler import InsCrawler
